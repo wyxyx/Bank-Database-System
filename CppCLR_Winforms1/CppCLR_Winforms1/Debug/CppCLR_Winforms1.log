@@ -1,0 +1,21 @@
+﻿  AdminDeleForm.cpp
+C:\Users\n1 f\Desktop\database\CppCLR_Winforms1\CppCLR_Winforms1\AdminDeleForm.cpp(1,1): warning C4005: “__CLR_VER”: 宏重定义
+C:\Users\n1 f\Desktop\database\CppCLR_Winforms1\CppCLR_Winforms1\pch.cpp : message : 参见“__CLR_VER”的前一个定义
+C:\Users\n1 f\Desktop\database\CppCLR_Winforms1\CppCLR_Winforms1\AdminDeleForm.cpp(1,1): warning C4651: 为预编译头，而非为当前编译指定“/D__CLR_VER=40804121”
+C:\Users\n1 f\Desktop\database\CppCLR_Winforms1\CppCLR_Winforms1\AdminDeleForm.h(263,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  AdminForm.cpp
+C:\Users\n1 f\Desktop\database\CppCLR_Winforms1\CppCLR_Winforms1\AdminForm.cpp(1,1): warning C4005: “__CLR_VER”: 宏重定义
+C:\Users\n1 f\Desktop\database\CppCLR_Winforms1\CppCLR_Winforms1\pch.cpp : message : 参见“__CLR_VER”的前一个定义
+C:\Users\n1 f\Desktop\database\CppCLR_Winforms1\CppCLR_Winforms1\AdminForm.cpp(1,1): warning C4651: 为预编译头，而非为当前编译指定“/D__CLR_VER=40804121”
+C:\Users\n1 f\Desktop\database\CppCLR_Winforms1\CppCLR_Winforms1\AdminDeleForm.h(263,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  CppCLR_WinformsProjekt.cpp
+C:\Users\n1 f\Desktop\database\CppCLR_Winforms1\CppCLR_Winforms1\CppCLR_WinformsProjekt.cpp(1,1): warning C4005: “__CLR_VER”: 宏重定义
+C:\Users\n1 f\Desktop\database\CppCLR_Winforms1\CppCLR_Winforms1\pch.cpp : message : 参见“__CLR_VER”的前一个定义
+C:\Users\n1 f\Desktop\database\CppCLR_Winforms1\CppCLR_Winforms1\CppCLR_WinformsProjekt.cpp(1,1): warning C4651: 为预编译头，而非为当前编译指定“/D__CLR_VER=40804121”
+C:\Users\n1 f\Desktop\database\CppCLR_Winforms1\CppCLR_Winforms1\LoanForm1.h(389,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\n1 f\Desktop\database\CppCLR_Winforms1\CppCLR_Winforms1\WithdrawForm1.h(161,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\n1 f\Desktop\database\CppCLR_Winforms1\CppCLR_Winforms1\WithdrawForm1.h(113,7): warning C4101: “flag”: 未引用的局部变量
+C:\Users\n1 f\Desktop\database\CppCLR_Winforms1\CppCLR_Winforms1\AdminDeleForm.h(263,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  AdminDeleForm.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+  CppCLR_Winforms1.vcxproj -> C:\Users\n1 f\Desktop\Project1\Debug\CppCLR_Winforms1.exe

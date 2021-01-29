@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Quelldateien">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Headerdateien">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Ressourcendateien">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="app.rc">
+      <Filter>Ressourcendateien</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resource.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Form1.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="DepositForm.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="DepositForm1.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="WithdrawForm.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="WithdrawForm1.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="LoanForm.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="LoanForm1.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="TransferForm.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="TransferForm1.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="PayLoanForm.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="PayLoanForm1.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchForm.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchForm1.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchForm2.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchForm3.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchForm4.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="UserForm.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="AdministratorForm.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminForm.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminDeleForm.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminSearchForm.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminSearchForm1.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="LoanForm2.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CppCLR_WinformsProjekt.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="AssemblyInfo.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Form1.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="DespositForm1.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="DepositForm.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="WithdrawForm.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="WithdrawForm1.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="LoanForm.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="LoanForm1.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="TransferForm.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="TransferForm1.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="PayLoanForm.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="PayLoanForm1.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchForm.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchForm1.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchForm2.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchForm3.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchForm4.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="UserForm.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="AdministratorForm.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminForm.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminDeleForm.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminSearchForm.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminSearchForm1.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="LoanForm2.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="app.ico">
+      <Filter>Ressourcendateien</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
